@@ -8,8 +8,9 @@ class HomePage extends StatelessWidget
             return Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Image.asset('./Assets/quiz-logo.png'),
-                
+                Image.asset('./Assets/quiz-logo.png',height: 200,width: 200),
+                const Text('Learn Flutter The Fun Way'),
+                OutlinedButton(onPressed: ()=>{}, child: const Text('Start Quiz'))
               ],
             );
       }
