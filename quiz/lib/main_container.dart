@@ -7,7 +7,7 @@ class MainContainer extends StatelessWidget {
     return Container(
       decoration: BoxDecoration(
           gradient: LinearGradient(
-              colors: [Colors.deepPurple, Colors.deepPurpleAccent],
+              colors: [Color(0xff23074d),Color(0xffcc5333)],
               begin: Alignment.topCenter,
               end: Alignment.bottomCenter)),
       child: HomePage(),
