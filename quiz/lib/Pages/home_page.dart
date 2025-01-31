@@ -14,7 +14,7 @@ class _HomePage extends State<HomePage> {
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          Image.asset('./Assets/quiz-logo.png', height: 200, width: 200),
+          Image.asset('./Assets/quiz-logo.png', height: 300, width: 300),
           SizedBox(height: 20),
           const Text('Learn Flutter The Fun Way',
               style: TextStyle(
