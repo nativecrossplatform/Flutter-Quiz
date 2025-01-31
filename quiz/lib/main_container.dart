@@ -8,8 +8,8 @@ class MainContainer extends StatelessWidget {
       decoration: BoxDecoration(
           gradient: LinearGradient(
               colors: [Color(0xff23074d),Color(0xffcc5333)],
-              begin: Alignment.topCenter,
-              end: Alignment.bottomCenter)),
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight)),
       child: HomePage(),
     );
   }
