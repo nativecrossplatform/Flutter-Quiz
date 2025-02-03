@@ -1,6 +1,6 @@
 # Flutter Quiz App
 
-A simple quiz app built using Flutter. The quiz focuses on Flutter-related questions to test your knowledge.
+A simple quiz app built using Flutter. The quiz focuses on Flutter-related questions to test your Flutter knowledge.
 
 ## Features
 - Multiple-choice questions about Flutter.
